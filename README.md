@@ -2,9 +2,15 @@
 <h1 align="center">Hi 👋, I'm Akash Kadam</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently student of Newton School **Mini Project**
+- 🔭 I’m currently student of Newton School 
 
 - 🌱 I’m currently learning **Html, Css**
+- This is a Mini Project given by Newton School which is based on frontend development.
+- The technologies used in this project is html and css
+- The project title is Resume.
+- The Project is a portfolio resume in which I have created a Resume in one page by using html and css only.
+- It has html "index.html" file which gives a structure to a web page.
+- It has css "style.css" file which gives a design to a web page.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
